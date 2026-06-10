@@ -124,6 +124,7 @@ h6 {
     -webkit-backdrop-filter: blur(24px);
     border-bottom: 1px solid var(--border);
     padding: 0 !important;
+    width: 100%;
     transition: var(--transition);
 }
 
@@ -432,6 +433,7 @@ h6 {
 .profile-img-container {
     position: relative;
     display: inline-block;
+    margin-top: 50px;
 }
 
 .profile-img {
@@ -1547,23 +1549,32 @@ footer {
     .hero-content h1 {
         font-size: 3.2rem;
     }
+    .navbar {
+    background: rgba(6, 12, 24, 0.85);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 !important;
+    width: 97% !important;
+    transition: var(--transition);
 
     .profile-img {
         width: 280px;
         height: 280px;
+        
     }
 
     .profile-ring {
         width: 310px;
         height: 310px;
-        top: -15px;
+        top: 17px;
         left: -15px;
     }
 
     .profile-ring-2 {
         width: 338px;
         height: 338px;
-        top: -29px;
+        top: 5px;
         left: -29px;
     }
 
@@ -1618,7 +1629,7 @@ footer {
     .profile-img {
         width: 240px;
         height: 240px;
-        margin-top: 40px;
+                    margin-top: 14px;
     }
 
     .profile-ring {
