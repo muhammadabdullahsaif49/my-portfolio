@@ -6,7 +6,7 @@ A modern, fully responsive personal portfolio website built with **HTML, CSS, an
 
 ## 📸 Preview
 
-> Live demo link here *(add your GitHub Pages / Vercel / Netlify URL)*
+> Live demo link here(https://muhammadabdullahsaif49.github.io/my-portfolio/)
 
 ---
 
